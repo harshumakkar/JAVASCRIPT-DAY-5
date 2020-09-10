@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Number Object Properties</h2>
+
+<p>NEGATIVE_INFINITY</p>
+
+<p id="demo"></p>
+
+<script>
+var x = Number.NEGATIVE_INFINITY;
+document.getElementById("demo").innerHTML = x;
+</script>
+
+</body>
+</html>
